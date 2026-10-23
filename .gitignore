@@ -1,0 +1,18 @@
+# Data: raw downloads, generated clean files, caches, and reports
+# Rebuilt with `Rscript run_all.R` (raw inputs must be obtained separately).
+data/
+
+# Generated deliverables (codebook)
+outputs/
+
+# R / RStudio session artifacts
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Renviron
+
+# OS cruft
+.DS_Store
+Thumbs.db
